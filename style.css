@@ -61,7 +61,9 @@ color: orange;
 }
 .our-recipies{
     text-align: center;
-    margin: 100px 20px 0px 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 100px;
 }
 .flex-onethird{
     display: flex;
